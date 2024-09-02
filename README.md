@@ -114,4 +114,4 @@ Deploy Vault.sol at the address
 aryan09
 
 ## LICENSE
-This project is licensed under the [Apache-2.0 license](LICENSE).
+This project is licensed under the [MIT license](LICENSE).
