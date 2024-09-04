@@ -42,7 +42,7 @@ avalanche --version
 ### Create a Subnet
 1. Creation
  ```sh
-avalanche subnet create prashantSubnet
+avalanche subnet create beingsSubnet
  ```
 Select following options
 
@@ -54,11 +54,11 @@ Select following options
  ```
 2. Enter the Chain ID (AVAX)
  ```sh
-12345
+12343
  ```
 3. Add token symbol
  ```sh
-TKN
+DOPA
  ```
 Select follwoing option
  ```sh
@@ -69,7 +69,7 @@ Select follwoing option
 ### Deploy Subnet 
 
  ```sh
-avalanche subnet deploy huhSubnet
+avalanche subnet deploy beingsSubnet
  ```
 Select 
  ```sh
